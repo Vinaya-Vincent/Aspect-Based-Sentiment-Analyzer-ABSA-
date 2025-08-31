@@ -19,4 +19,21 @@ Unlike traditional sentiment analysis, which gives only an overall rating, this 
 
 ---
 
-##  Project Structure
+
+---
+
+## Dataset
+- Source: **Amazon Electronics Reviews (UCSD, 2014)**  
+- Full dataset: ~1.7M reviews  
+- This project uses a **sample of 10,000 reviews** for efficient training and prototyping.  
+
+---
+
+##  Installation & Setup
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/your-username/ABSA-Analyzer.git
+cd ABSA-Analyzer
+pip install -r requirements.txt
+
